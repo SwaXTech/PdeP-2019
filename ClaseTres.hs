@@ -1,4 +1,4 @@
---Clase #3 03/04/2019--
+-- Clase #3 03/04/2019 --
 
 {-
 -Expresividad: De la mano con Intention revealing, que se vea la intención en el código:
