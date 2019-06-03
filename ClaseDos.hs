@@ -1,6 +1,5 @@
 -- Clase #2 27/03/2019 --
 {-
-
 - Declaratividad  --> Pensar en el qué y no en el cómo
 - Expresividad    --> Nombres que describen lo que representan
 - Funciones       --> Se operan funciónes
