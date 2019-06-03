@@ -1,3 +1,4 @@
+-- Clase #1 15/05/2019 --
 -- Un Data puede tener distintos constructores:
 
 data Booleano = True | False
