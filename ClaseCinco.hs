@@ -1,3 +1,5 @@
+-- Clase #5 17/04/2019 --
+
 -- MODELAR --> Representar la realidad mediante un modelo --
 -- Podemos modelar por ejemplo usando listas o TUPLAS --
 -- Las tuplas son un par o conjunto de valores ordenados que pueden ser de distinto tipo.
