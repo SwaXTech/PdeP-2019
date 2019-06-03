@@ -1,4 +1,4 @@
--- Clase #5 17/04/2019 --
+--- Clase #5 17/04/2019 ---
 
 -- MODELAR --> Representar la realidad mediante un modelo --
 -- Podemos modelar por ejemplo usando listas o TUPLAS --
