@@ -1,3 +1,4 @@
+-- Clase #7 Parte 2 08/05/2019 --
 -- Funciónes de Haskell para listas infinitas --
 
 repetirInfinitos :: a -> [a] -- Infinitos de un valor
