@@ -1,4 +1,4 @@
--- Clase #6 Parte 1 24/04 --
+-- Clase #6 Parte 1 24/04/2019 --
 
 {-A veces para modelar, las tuplas no son suficientes, y las funciones que creamos no tienen sentido... Para eso creamos nuestros propios tipos-}
 
